@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529774463454",
+    "firebase_url": "https://flash-chat-6a254.firebaseio.com",
+    "project_id": "flash-chat-6a254",
+    "storage_bucket": "flash-chat-6a254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529774463454:android:b8d7b1c80cbbb8659c754f",
+        "android_client_info": {
+          "package_name": "co.egycode.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529774463454-r76rmm90svcvi3nrbtuh60p757lq6ssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyRGUtKwLU1eXrQRAsYLZAdgcBaXMq0ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529774463454-r76rmm90svcvi3nrbtuh60p757lq6ssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
